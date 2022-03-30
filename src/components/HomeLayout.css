@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.col1-image {
+  width: 100%;
+  border-radius: 50%;
+  opacity: 0.5;
+  width: 70%;
+  height: 70%;
+}
+
+.col2 {
+  text-align: center;
+}
+h1 {
+  color: white;
+
+  font-style: oblique;
+  font-family: Georgia, serif;
+}
+h3 {
+  color: white;
+  font-style: oblique;
+  font-family: Georgia, serif;
+}
+p {
+  font-style: oblique;
+  font-family: Georgia, serif;
+}
+.row3 {
+  height: 80vh;
+
+}
+.row1{
+  height: 80vh;
+}
+.row4{
+  height: 80vh;
+}
+.about-header{
+  text-decoration: underline;
+
+}
+.p-experiece
+{
+  text-transform: lowercase;
+}
+.px-5{
+  margin-left: 90px;
+}
+
+
+
+
